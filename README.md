@@ -60,7 +60,7 @@
 ## 🔗 Quick Links
 - LinkedIn: https://linkedin.com/in/girija-gm  
 - Email: girija.cse.rymec@gmail.com  
-- Resume: (add link once uploaded to repo or cloud)
+- Resume: file:///C:/Users/GIRIJA%20GM/Downloads/1resume%20(1).pdf
 
 ---
 
