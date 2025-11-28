@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**GIRIJA-31/GIRIJA-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Girija 👋
+Computer Science Engineering student | MERN Developer | AI & Deep Learning Enthusiast
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- MERN Stack: MongoDB, Express, React, Node.js
+- AI/ML: CNN, LSTM, Deep Learning
+- Languages: C, C++, Java, Python
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Deep Learning-Based Intrusion Detection System (CNN+LSTM)
+- Smart Appointment Booking System (MERN + 3D Web)
+- Handwritten Digit Recognition (CNN)
+- Student Information System (HTML, CSS, JS)
+
+## 📫 Connect with me
+LinkedIn: https://linkedin.com/in/girija-gm
