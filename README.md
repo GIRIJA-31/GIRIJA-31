@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm <b>Girija</b> 👋</h1>
+<h1 align="center">Hi, I'm <b>Girija G M</b> 👋</h1>
 <h3 align="center">CSE Student • MERN Developer • AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
