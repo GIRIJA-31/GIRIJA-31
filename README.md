@@ -1,70 +1,77 @@
-
-
 <h1 align="center">Hi, I'm <b>Girija G M</b> 👋</h1>
-<h3 align="center">CSE Student • MERN Developer • AI & Deep Learning Enthusiast</h3>
+<h3 align="center">Software Engineer • MERN Developer • AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/girija-gm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.E. Computer Science & Engineering — RYMEC, Ballari  
-- 💡 I build full-stack web apps (MERN) and experiment with Deep Learning models for real-world problems like Intrusion Detection.  
-- 🌱 Currently learning: Advanced React, Three.js, and ML model deployment.  
-- 🎯 Looking for: Internship roles in Full-Stack (MERN), Frontend (React), or ML/AI.
+- 🎓 B.E. Computer Science & Engineering — RYMEC, Ballari (CGPA: 8.05)  
+- 💻 Passionate about building **scalable backend systems** and **full-stack web applications** using MERN stack  
+- 🤖 Experienced in **Deep Learning & AI models** for real-world applications like Intrusion Detection Systems  
+- ⚙️ Strong foundation in **Data Structures, Algorithms, OOPS, DBMS, OS, and Computer Networks**  
+- 🌱 Currently learning: **System Design, Microservices, and Cloud (AWS Basics)**  
+- 🎯 Seeking: Internship / Entry-level roles in **Software Engineering, Full Stack, or AI/ML**
 
 ---
 
 ## 🧰 Tech Stack
-*Languages:* C · C++ · Java · Python  
-*Frontend:* HTML · CSS · JavaScript · React · Three.js  
-*Backend:* Node.js · Express · Flask · MongoDB  
-*AI/ML:* TensorFlow / Keras · CNN · LSTM · Data Preprocessing  
-*Tools:* Git · GitHub · VS Code · Postman
+**Languages:** Python · C · C++ · JavaScript  
+**Frontend:** HTML · CSS · React.js · Three.js  
+**Backend:** Node.js · Express.js · MongoDB · REST APIs  
+**Core Concepts:** DSA · OOPS · DBMS · OS · Computer Networks · System Design  
+**Technologies:** Microservices · JWT Authentication  
+**Tools:** Git · GitHub · VS Code · Linux · Postman  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,linux" alt="tech stack" />
 </p>
 
 ---
 
-## ✨  Projects
-> Click project names (replace placeholder links with your repo links once created)
+## ✨ Projects
 
-- **[Deep Learning-Based Intrusion Detection System (CNN + LSTM)](https://github.com/girija-gm/ids-dl)**  
-  Hybrid model to detect network attacks using KDD99 & NSL-KDD. Built backend APIs + integrated a React dashboard. (Python, Flask, React)
+- **[Deep Learning-Based Intrusion Detection System](https://github.com/yourusername/ids-dl)**  
+  Developed an IDS using CNN, LSTM, and GRU models on NSL-KDD dataset, achieving high accuracy in detecting network attacks. Implemented multiple ML models (SVM, Random Forest) for benchmarking and performance evaluation.  
+  **Tech:** Python, TensorFlow, Scikit-learn  
 
-- **[Smart Appointment Booking System | MERN + 3D Web](https://github.com/girija-gm/appointment-mern)**  
-  Full-stack app with interactive 3D UI using Three.js. Implements authentication, booking flows, and admin features. (React, Three.js, Node, MongoDB)
+- **[Smart Appointment Booking System (MERN + 3D)](https://github.com/yourusername/appointment-mern)**  
+  Engineered a scalable full-stack application with JWT-based authentication and role-based access control. Designed REST APIs and integrated a 3D UI using Three.js for enhanced user experience.  
+  **Tech:** React, Node.js, Express.js, MongoDB, Three.js  
 
-- **[Handwritten Digit Recognition (CNN)](https://github.com/girija-gm/digit-cnn)**  
-  CNN trained on MNIST with ~98% accuracy. Includes training scripts and evaluation notebooks. (Python, Keras)
+- **[Task Manager Application](https://github.com/yourusername/task-manager)**  
+  Built a full-stack CRUD application with REST API integration for efficient task management. Implemented modular components and optimized state management for scalability.  
+  **Tech:** React, Node.js, Express.js, MongoDB  
 
-- **[Student Information System](https://github.com/girija-gm/student-info)**  
-  Responsive CRUD web app for student records. (HTML, CSS, JS)
+- **[Student Information System](https://github.com/yourusername/student-info)**  
+  Developed a responsive web application for student registration and profile management with validation and secure login workflows.  
+  **Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ## 🏆 Achievements
-- *1st Rank* — AI Quiz by *Kimo.ai* (demonstrated strong fundamentals in AI).  
-- Hackathon participant — Web Development (Smt. Kamala & Sri Venkappa M. Agadi College).  
-- Multiple certifications in Generative AI, Networking, and UI/UX.
+- 🥇 1st Place — AI Quiz conducted by Kimo.ai  
+- 🥇 1st Place — Coding Club Competition (HTML & CSS Web Development)  
+- 📜 Completed Generative AI Certification — Microsoft & LinkedIn  
+- 📜 Completed Deloitte Technology Job Simulation  
+
 ---
 
 ## 🔗 Quick Links
-- LinkedIn: https://linkedin.com/in/girija-gm  
-- Email: girija.cse.rymec@gmail.com  
-- Resume: file:///C:/Users/GIRIJA%20GM/Downloads/1resume%20(1).pdf
+- 🔗 LinkedIn: https://www.linkedin.com/in/girija-gm-006525315  
+- 📧 Email: girija.cse.rymec@gmail.com  
 
 ---
 
-## 📫 How to Reach Me
-I'm open to internship opportunities — feel free to message me on LinkedIn or send an email. I usually respond quickly!
-
----
+## 📫 Let's Connect!
+I'm actively seeking internship and entry-level opportunities in Software Engineering, Full Stack Development, and AI/ML.  
+Feel free to reach out — I'm always open to networking and collaboration 🚀
+```
