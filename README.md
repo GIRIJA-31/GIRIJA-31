@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst | SQL · Python · Power BI · MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/girija-gm-006525315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girija-gm-006525315/)
 [![GitHub](https://img.shields.io/badge/GitHub-GIRIJA--31-181717?style=for-the-badge&logo=github)](https://github.com/GIRIJA-31)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:girija.cse.rymec@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)]()
@@ -91,25 +91,16 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Girija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GIRIJA-31&show_icons=true&theme=navy&hide_border=true&bg_color=0f1e3d&title_color=c8913a&icon_color=c8913a&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GIRIJA-31&layout=compact&theme=navy&hide_border=true&bg_color=0f1e3d&title_color=c8913a&text_color=ffffff)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm actively looking for **Data Analyst** opportunities at EY GDS, Deloitte, KPMG, PwC, and other analytics-driven organizations.
 
-📧 **Email:** girija.cse.rymec@gmail.com
-💼 **LinkedIn:**linkedin.com/in/girija-gm-006525315
-📁 **Portfolio:**https://github.com/GIRIJA-31/GIRIJA-31.git
+
+<p align="left">
+📧 <b>Email:</b> <a href="mailto:girija.cse.rymec@gmail.com">girija.cse.rymec@gmail.com</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/girija-gm-006525315/">LinkedIn Profile</a><br>
+🌐 <b>Portfolio:</b> <a href="https://github.com/GIRIJA-31/GIRIJA-31.git">GitHub Portfolio</a>
+</p> 
 
 ---
 
