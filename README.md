@@ -80,6 +80,18 @@
 
 ---
 
+### 🤖 [AI Resume Skill Gap Analyzer — SkillBridge](https://github.com/GIRIJA-31)
+> **FastAPI · MongoDB · spaCy · TF-IDF · React · Claude API**
+
+- Built an AI-powered SaaS tool that compares resumes against job descriptions 
+  and surfaces missing skills using **NLP (spaCy, TF-IDF vectorization)**
+- Integrated **Anthropic Claude API** for intelligent skill gap recommendations 
+  and personalized improvement suggestions
+- Backend: **FastAPI + MongoDB** REST API with JWT authentication
+- Frontend: **React + Tailwind CSS** with real-time analysis results
+- Demonstrates ability to build end-to-end AI applications relevant to 
+  EY's AI & Analytics practice
+
 ## 📜 Certifications
 
 | Certificate | Platform | Status |
