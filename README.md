@@ -87,8 +87,7 @@
 | Deloitte Data Analytics Job Simulation | Forage | ✅ Completed |
 | Microsoft Generative AI for Data | Microsoft | ✅ Completed |
 | TCS iON Career Edge — Data Analytics | TCS iON | ✅ Completed |
-| PL-300 Power BI Data Analyst | Microsoft | 🔄 In Progress |
-| HackerRank SQL Gold Badge | HackerRank | 🔄 In Progress |
+
 
 ---
 
