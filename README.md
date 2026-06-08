@@ -1,77 +1,123 @@
-<h1 align="center">Hi, I'm <b>Girija G M</b> 👋</h1>
-<h3 align="center">Software Engineer • MERN Developer • AI & Deep Learning Enthusiast</h3>
+# Hi, I'm Girija G M 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/girija-gm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
-</p>
+<div align="center">
+
+### 📊 Data Analyst | SQL · Python · Power BI · MySQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/girija-gm-006525315)
+[![GitHub](https://img.shields.io/badge/GitHub-GIRIJA--31-181717?style=for-the-badge&logo=github)](https://github.com/GIRIJA-31)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:girija.cse.rymec@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)]()
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.E. Computer Science & Engineering — RYMEC, Ballari (CGPA: 8.05)  
-- 💻 Passionate about building **scalable backend systems** and **full-stack web applications** using MERN stack  
-- 🤖 Experienced in **Deep Learning & AI models** for real-world applications like Intrusion Detection Systems  
-- ⚙️ Strong foundation in **Data Structures, Algorithms, OOPS, DBMS, OS, and Computer Networks**  
-- 🌱 Currently learning: **System Design, Microservices, and Cloud (AWS Basics)**  
-- 🎯 Seeking: Internship / Entry-level roles in **Software Engineering, Full Stack, or AI/ML**
+
+- 🎓 **B.E. Computer Science & Engineering** — RYMEC, Ballari | VTU | **CGPA: 8.05**
+- 📊 Passionate about transforming raw data into **actionable business insights**
+- 🔍 Experienced in **end-to-end analytics** — data cleaning → SQL analysis → ML models → Power BI dashboards
+- 🏢 Completed **Deloitte Data Analytics Job Simulation** (Forage, May 2026)
+- ☁️ Upskilling in **Microsoft Azure**, **PL-300 Power BI**, and **HackerRank SQL Gold**
+- 🎯 Seeking: **Data Analyst roles** 
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python · C · C++ · JavaScript  
-**Frontend:** HTML · CSS · React.js · Three.js  
-**Backend:** Node.js · Express.js · MongoDB · REST APIs  
-**Core Concepts:** DSA · OOPS · DBMS · OS · Computer Networks · System Design  
-**Technologies:** Microservices · JWT Authentication  
-**Tools:** Git · GitHub · VS Code · Linux · Postman  
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,linux" alt="tech stack" />
-</p>
-
----
-
-## ✨ Projects
-
-- **[Deep Learning-Based Intrusion Detection System](https://github.com/yourusername/ids-dl)**  
-  Developed an IDS using CNN, LSTM, and GRU models on NSL-KDD dataset, achieving high accuracy in detecting network attacks. Implemented multiple ML models (SVM, Random Forest) for benchmarking and performance evaluation.  
-  **Tech:** Python, TensorFlow, Scikit-learn  
-
-- **[Smart Appointment Booking System (MERN + 3D)](https://github.com/yourusername/appointment-mern)**  
-  Engineered a scalable full-stack application with JWT-based authentication and role-based access control. Designed REST APIs and integrated a 3D UI using Three.js for enhanced user experience.  
-  **Tech:** React, Node.js, Express.js, MongoDB, Three.js  
-
-- **[Task Manager Application](https://github.com/yourusername/task-manager)**  
-  Built a full-stack CRUD application with REST API integration for efficient task management. Implemented modular components and optimized state management for scalability.  
-  **Tech:** React, Node.js, Express.js, MongoDB  
-
-- **[Student Information System](https://github.com/yourusername/student-info)**  
-  Developed a responsive web application for student registration and profile management with validation and secure login workflows.  
-  **Tech:** HTML, CSS, JavaScript  
+| Category | Tools |
+|---|---|
+| **Languages** | Python · SQL |
+| **Python Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
+| **Databases** | MySQL · PostgreSQL · SQLite |
+| **Visualization** | Power BI · Tableau · Matplotlib |
+| **ML / Analytics** | Random Forest · XGBoost · Logistic Regression · EDA |
+| **Tools** | Git · GitHub · VS Code · MySQL Workbench · Jupyter |
+| **Cloud** | Azure (AZ-900) · AWS Basics |
+| **Productivity** | MS Excel · Google Sheets · Power Query |
 
 ---
 
-## 🏆 Achievements
-- 🥇 1st Place — AI Quiz conducted by Kimo.ai  
-- 🥇 1st Place — Coding Club Competition (HTML & CSS Web Development)  
-- 📜 Completed Generative AI Certification — Microsoft & LinkedIn  
-- 📜 Completed Deloitte Technology Job Simulation  
+## 📂 Portfolio Projects
+
+### 📉 [Customer Churn Prediction](https://github.com/GIRIJA-31/customer-churn-prediction)
+> **Python · Pandas · Scikit-learn · Random Forest · Seaborn**
+
+- Analyzed **7,032 telecom customer records** to predict churn using Machine Learning
+- Performed EDA identifying **6 key churn drivers** — Contract type (43% vs 3% churn rate)
+- Trained Random Forest with `class_weight='balanced'` → **77% Accuracy | 83% ROC-AUC**
+- Identified top 20% highest-risk customers → estimated **22% reduction in revenue loss**
 
 ---
 
-## 🔗 Quick Links
-- 🔗 LinkedIn: https://www.linkedin.com/in/girija-gm-006525315  
-- 📧 Email: girija.cse.rymec@gmail.com  
+### 📊 [Sales Performance Dashboard](https://github.com/GIRIJA-31/sales-performance-dashboard)
+> **MySQL · Power BI · Python · DAX · SQL Window Functions**
+
+- Built end-to-end analytics on **5,000 orders | ₹19.15 Crore revenue** across 2 years
+- Wrote **6 advanced SQL queries** — CTEs, RANK(), DENSE_RANK(), CASE WHEN, DATE functions
+- Built interactive **Power BI dashboard** with KPI cards, bar charts, donut chart, year slicer
+- Key finding: **Electronics = 60.54% revenue share** | West region = top performer
 
 ---
 
-## 📫 Let's Connect!
-I'm actively seeking internship and entry-level opportunities in Software Engineering, Full Stack Development, and AI/ML.  
-Feel free to reach out — I'm always open to networking and collaboration 🚀
-```
+### 🌍 [COVID-19 Global Trend Analysis](https://github.com/GIRIJA-31/covid-19-global-analysis)
+> **Python · Pandas · Matplotlib · Seaborn · Power BI**
+
+- Analyzed **350,085 rows** of real WHO/OWID data covering **640 Million cases, 243 countries**
+- Identified **2022 Omicron wave** as global peak; USA led with 103M cases
+- Built **Power BI dashboard** with interactive world bubble map, continent comparison, monthly trends
+- Vaccination analysis: **Gibraltar 120%+ vaccinated** | Global average: 57.94%
+
+---
+
+### 🔗 [Supply Chain Delivery Prediction](https://github.com/GIRIJA-31/sales-performance-dashboard.git)
+> **Python · XGBoost · Random Forest · Flask — Internship @ Contriver, Bengaluru**
+
+- Built ML pipeline on DataCo Global Supply Chain dataset
+- **XGBoost achieved ~94% accuracy** predicting late deliveries
+- Delivered full internship package including report, architecture diagrams, and presentation
+
+---
+
+## 📜 Certifications
+
+| Certificate | Platform | Status |
+|---|---|---|
+| Deloitte Data Analytics Job Simulation | Forage | ✅ Completed |
+| Microsoft Generative AI for Data | Microsoft | ✅ Completed |
+| TCS iON Career Edge — Data Analytics | TCS iON | ✅ Completed |
+| PL-300 Power BI Data Analyst | Microsoft | 🔄 In Progress |
+| HackerRank SQL Gold Badge | HackerRank | 🔄 In Progress |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Girija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GIRIJA-31&show_icons=true&theme=navy&hide_border=true&bg_color=0f1e3d&title_color=c8913a&icon_color=c8913a&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GIRIJA-31&layout=compact&theme=navy&hide_border=true&bg_color=0f1e3d&title_color=c8913a&text_color=ffffff)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm actively looking for **Data Analyst** opportunities at EY GDS, Deloitte, KPMG, PwC, and other analytics-driven organizations.
+
+📧 **Email:** girija.cse.rymec@gmail.com
+💼 **LinkedIn:**linkedin.com/in/girija-gm-006525315
+📁 **Portfolio:**https://github.com/GIRIJA-31/GIRIJA-31.git
+
+---
+
+<div align="center">
+
+*"Data is the new oil — I help businesses refine it into insights."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=GIRIJA-31&color=1a2f5a&style=flat-square)
+
+</div>
