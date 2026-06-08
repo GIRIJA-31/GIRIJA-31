@@ -80,7 +80,7 @@
 
 ---
 
-### 🤖 [AI Resume Skill Gap Analyzer — SkillBridge](https://github.com/GIRIJA-31)
+### 🤖 [AI Resume Skill Gap Analyzer — SkillBridge](https://github.com/GIRIJA-31/Skilllens.git)
 > **FastAPI · MongoDB · spaCy · TF-IDF · React · Claude API**
 
 - Built an AI-powered SaaS tool that compares resumes against job descriptions 
