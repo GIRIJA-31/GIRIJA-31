@@ -1,125 +1,98 @@
-# Hi, I'm Girija G M 👋
-
 <div align="center">
 
-### 📊 Data Analyst | SQL · Python · Power BI · MySQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=200&section=header&text=Hi%20There,%20I'm%20Girija%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Python%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girija-gm-006525315/)
-[![GitHub](https://img.shields.io/badge/GitHub-GIRIJA--31-181717?style=for-the-badge&logo=github)](https://github.com/GIRIJA-31)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:girija.cse.rymec@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)]()
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%26+LLM+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 **B.E. Computer Science & Engineering** — RYMEC, Ballari | VTU | **CGPA: 8.05**
-- 📊 Passionate about transforming raw data into **actionable business insights**
-- 🔍 Experienced in **end-to-end analytics** — data cleaning → SQL analysis → ML models → Power BI dashboards
-- 🏢 Completed **Deloitte Data Analytics Job Simulation** (Forage, May 2026)
-- ☁️ Upskilling in **Microsoft Azure**, **PL-300 Power BI**, and **HackerRank SQL Gold**
-- 🎯 Seeking: **Data Analyst roles** 
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Languages** | Python · SQL |
-| **Python Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
-| **Databases** | MySQL · PostgreSQL · SQLite |
-| **Visualization** | Power BI · Tableau · Matplotlib |
-| **ML / Analytics** | Random Forest · XGBoost · Logistic Regression · EDA |
-| **Tools** | Git · GitHub · VS Code · MySQL Workbench · Jupyter |
-| **Cloud** | Azure (AZ-900) · AWS Basics |
-| **Productivity** | MS Excel · Google Sheets · Power Query |
+- 🎓 2026 B.E. Computer Science Engineering graduate (RYMEC, Ballari — VTU), CGPA **8.2**
+- 🤖 Focused on **Machine Learning, Deep Learning, Computer Vision & NLP**
+- 🧠 Certified in **Generative AI** (Microsoft & LinkedIn) and **AI Tools & ChatGPT Applications**
+- 🛠️ Building end-to-end projects — from data preprocessing to deployment
+- 📍 Based in Bengaluru, Karnataka, India — open to relocation
+- 📫 Reach me at **girija.cse.rymec@gmail.com**
 
 ---
 
-## 📂 Portfolio Projects
-
-### 📉 [Customer Churn Prediction](https://github.com/GIRIJA-31/customer-churn-prediction)
-> **Python · Pandas · Scikit-learn · Random Forest · Seaborn**
-
-- Analyzed **7,032 telecom customer records** to predict churn using Machine Learning
-- Performed EDA identifying **6 key churn drivers** — Contract type (43% vs 3% churn rate)
-- Trained Random Forest with `class_weight='balanced'` → **77% Accuracy | 83% ROC-AUC**
-- Identified top 20% highest-risk customers → estimated **22% reduction in revenue loss**
-
----
-
-### 📊 [Sales Performance Dashboard](https://github.com/GIRIJA-31/sales-performance-dashboard)
-> **MySQL · Power BI · Python · DAX · SQL Window Functions**
-
-- Built end-to-end analytics on **5,000 orders | ₹19.15 Crore revenue** across 2 years
-- Wrote **6 advanced SQL queries** — CTEs, RANK(), DENSE_RANK(), CASE WHEN, DATE functions
-- Built interactive **Power BI dashboard** with KPI cards, bar charts, donut chart, year slicer
-- Key finding: **Electronics = 60.54% revenue share** | West region = top performer
-
----
-
-### 🌍 [COVID-19 Global Trend Analysis](https://github.com/GIRIJA-31/covid-19-global-analysis)
-> **Python · Pandas · Matplotlib · Seaborn · Power BI**
-
-- Analyzed **350,085 rows** of real WHO/OWID data covering **640 Million cases, 243 countries**
-- Identified **2022 Omicron wave** as global peak; USA led with 103M cases
-- Built **Power BI dashboard** with interactive world bubble map, continent comparison, monthly trends
-- Vaccination analysis: **Gibraltar 120%+ vaccinated** | Global average: 57.94%
-
----
-
-### 🔗 [Supply Chain Delivery Prediction](https://github.com/GIRIJA-31/sales-performance-dashboard.git)
-> **Python · XGBoost · Random Forest · Flask — Internship @ Contriver, Bengaluru**
-
-- Built ML pipeline on DataCo Global Supply Chain dataset
-- **XGBoost achieved ~94% accuracy** predicting late deliveries
-- Delivered full internship package including report, architecture diagrams, and presentation
-
----
-
-### 🤖 [AI Resume Skill Gap Analyzer — SkillBridge](https://github.com/GIRIJA-31/Skilllens.git)
-> **FastAPI · MongoDB · spaCy · TF-IDF · React · Claude API**
-
-- Built an AI-powered SaaS tool that compares resumes against job descriptions 
-  and surfaces missing skills using **NLP (spaCy, TF-IDF vectorization)**
-- Integrated **Anthropic Claude API** for intelligent skill gap recommendations 
-  and personalized improvement suggestions
-- Backend: **FastAPI + MongoDB** REST API with JWT authentication
-- Frontend: **React + Tailwind CSS** with real-time analysis results
-- Demonstrates ability to build end-to-end AI applications relevant to 
-  EY's AI & Analytics practice
-
-## 📜 Certifications
-
-| Certificate | Platform | Status |
-|---|---|---|
-| Deloitte Data Analytics Job Simulation | Forage | ✅ Completed |
-| Microsoft Generative AI for Data | Microsoft | ✅ Completed |
-| TCS iON Career Edge — Data Analytics | TCS iON | ✅ Completed |
-
-
----
-
-## 🤝 Let's Connect!
-
-I'm actively looking for **Data Analyst** opportunities at EY GDS, Deloitte, KPMG, PwC, and other analytics-driven organizations.
-
-
-<p align="left">
-📧 <b>Email:</b> <a href="mailto:girija.cse.rymec@gmail.com">girija.cse.rymec@gmail.com</a><br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/girija-gm-006525315/">LinkedIn Profile</a><br>
-🌐 <b>Portfolio:</b> <a href="https://github.com/GIRIJA-31/GIRIJA-31.git">GitHub Portfolio</a>
-</p> 
-
----
+### 🧰 Tech Stack
 
 <div align="center">
 
-*"Data is the new oil — I help businesses refine it into insights."*
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,django,fastapi,mysql,git,github,vscode,azure,react&theme=light" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=GIRIJA-31&color=1a2f5a&style=flat-square)
+</div>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/GIRIJA-31/face-blockchain-verifier">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=face-blockchain-verifier&theme=default&hide_border=false" />
+</a>
+<a href="https://github.com/GIRIJA-31/Skilllens">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=Skilllens&theme=default&hide_border=false" />
+</a>
+
+<a href="https://github.com/GIRIJA-31/Fin-Guard-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=Fin-Guard-Project&theme=default&hide_border=false" />
+</a>
+<a href="https://github.com/GIRIJA-31/chainguard-final">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=chainguard-final&theme=default&hide_border=false" />
+</a>
+
+</div>
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔐 [Face Identification & Blockchain Verifier](https://github.com/GIRIJA-31/face-blockchain-verifier) | Computer-vision face encoding + blockchain-based tamper-evident verification | Python, InsightFace, Selenium, Web3.py |
+| 📄 [AI Resume Analyzer (SkillLens)](https://github.com/GIRIJA-31/Skilllens) | End-to-end NLP pipeline for automated document-to-requirement matching | Python, NLP, ML |
+| 💰 [Smart Financial Crime Detection](https://github.com/GIRIJA-31/Fin-Guard-Project) | ML-based anomaly detection on SQL-backed transaction data | Python, SQL, ML |
+| 🚚 [Supply Chain Delivery Prediction](https://github.com/GIRIJA-31/chainguard-final) | Delivery-delay forecasting model (~94% accuracy) deployed via Flask | Python, Flask, XGBoost |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GIRIJA-31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIRIJA-31&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GIRIJA-31&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-girija.cse.rymec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girija.cse.rymec@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GIRIJA--31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIRIJA-31)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=100&section=footer"/>
 </div>
