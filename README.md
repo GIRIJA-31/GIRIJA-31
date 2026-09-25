@@ -44,24 +44,6 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/GIRIJA-31/face-blockchain-verifier">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=face-blockchain-verifier&theme=default&hide_border=false" />
-</a>
-<a href="https://github.com/GIRIJA-31/Skilllens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=Skilllens&theme=default&hide_border=false" />
-</a>
-
-<a href="https://github.com/GIRIJA-31/Fin-Guard-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=Fin-Guard-Project&theme=default&hide_border=false" />
-</a>
-<a href="https://github.com/GIRIJA-31/chainguard-final">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GIRIJA-31&repo=chainguard-final&theme=default&hide_border=false" />
-</a>
-
-</div>
-
 | Project | Description | Tech |
 |---|---|---|
 | 🔐 [Face Identification & Blockchain Verifier](https://github.com/GIRIJA-31/face-blockchain-verifier) | Computer-vision face encoding + blockchain-based tamper-evident verification | Python, InsightFace, Selenium, Web3.py |
@@ -71,16 +53,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GIRIJA-31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIRIJA-31&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GIRIJA-31&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
